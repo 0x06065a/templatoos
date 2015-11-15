@@ -2,5 +2,5 @@ Springboot REST project template
 ------------------------------
 
 ```
-$ gradle build
+$ ./gradlew build
 ```
