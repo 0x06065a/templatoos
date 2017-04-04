@@ -1,9 +1,0 @@
-.idea
-*.iml
-
-.gradle
-build
-
-*.class
-
-lazybones.groovy
