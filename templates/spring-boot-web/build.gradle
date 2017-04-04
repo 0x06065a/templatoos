@@ -1,0 +1,14 @@
+plugins {
+    id 'org.springframework.boot' version '1.5.2.RELEASE'
+}
+
+
+apply plugin: 'java'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter-web'
+}
